@@ -2,7 +2,7 @@
 
 `Keshav Moorthy (He/Him)`
 
-I'm an NLP Engineer with experience in devloping and researching Language Models and their inter-discsiplinary applications. I'm passionate about connecting the world of research to developing scalable industrial end-to-end appplications. Having experience with vector and graph database systems with extensive Dev-Ops and ML-Ops tools, my expertise in ML systems is complete from model training to production. 
+I'm an NLP Engineer with experience in devloping and researching Language Models and their inter-discsiplinary applications. I'm passionate about connecting the world of research to developing scalable industrial end-to-end applications. Having experience with vector and graph database systems with extensive Dev-Ops and ML-Ops tools, my expertise in ML systems is complete from model training to production. 
 
 I also update my projects in my personal site: [keshavm.live](https://keshavm.live/projects). 
 
