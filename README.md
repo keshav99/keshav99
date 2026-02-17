@@ -4,7 +4,7 @@
 
 I'm an ML Engineer with experience in devloping and researching Language Models, Vision Models and multi-modal models and their inter-discsiplinary applications. I have extensively worked with retrieval systems and Knowledge Graphs. Having experience with vector and graph database systems with extensive Dev-Ops and ML-Ops tools, my expertise in ML systems is complete from model training to production. 
 
-### [keshavm.live](https://keshavm.live/projects) - a lot of what I do goes there! 
+### [keshavm.com](https://keshavm.live/projects) - a lot of what I do goes there! 
 
 ### Connect with me: 
 Email: keshav.moorthy1999@gmail.com
